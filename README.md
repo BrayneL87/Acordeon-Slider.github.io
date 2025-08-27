@@ -43,15 +43,13 @@ accordion-slider-autos/
 
 |── src
 
-| |── css
+||── css
 
-  │── style.css 
+  │||── style.css 
 
-│── js
+|│── js
 
-│
-
- │── app.js
+ │||── app.js
 
 │── index.html
 
