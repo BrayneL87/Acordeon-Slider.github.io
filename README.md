@@ -43,11 +43,21 @@ accordion-slider-autos/
 
 |── src
 
+|
+
+ |── css
+
+ |
+ 
+  │── style.css 
+
+│── js
+
+│
+
+ │── app.js
+
 │── index.html
-
-│── style.css
-
-│── script.js
 
 │── img/
 │    ├── ferrari.jpg
