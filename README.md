@@ -41,11 +41,11 @@ Abre el archivo index.html en tu navegador.
 📂 Estructura de carpetas
 accordion-slider-autos/
 
-|── src
+📂src
 
-||── css
+📂|── css
 
-  │||── style.css 
+  │|📂|── style.css 
 
 |│── js
 
