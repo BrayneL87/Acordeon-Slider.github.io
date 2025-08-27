@@ -43,23 +43,30 @@ accordion-slider-autos/
 
 📂src
 
-|📂|── css
+|📂|── css/
 
   |||── style.css 
 
-|📂│── js
+|📂│── js/
 
  |||── app.js
 
 │── index.html
 
-│── img/
+|📂│── img/
+
 │    ├── ferrari.jpg
+
 │    ├── mercedes.jpg
+
 │    ├── lamborghini.jpg
+
 │    ├── audi.jpg
+
 │    ├── bmw.jpg
+
 │    └── bugatti.jpg
+
 └── README.md
 
 🙌 Créditos
