@@ -29,7 +29,7 @@ JavaScript → interactividad dinámica.
 
 Clona este repositorio:
 
-git clone https://github.com/tuusuario/accordion-slider-autos.git
+git clone https://braynel87.github.io/Acordeon-Slider.github.io
 
 
 Abre el archivo index.html en tu navegador.
