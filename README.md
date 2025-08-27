@@ -24,7 +24,7 @@ Muestra imágenes de autos de lujo y deportivos como Ferrari, Mercedes, Lamborgh
 
 📸 Vista previa
 
-![Vista previa](./acordeon-slider.jpg)
+![Vista previa](./img/acordeon-slider.jpg)
 
 acordeon-slider.jpg
 
