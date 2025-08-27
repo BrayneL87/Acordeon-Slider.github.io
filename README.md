@@ -51,8 +51,6 @@ accordion-slider-autos/
 
  |||── app.js
 
-│── index.html
-
 |📂│── img/
 
 │    ├── ferrari.jpg
@@ -66,6 +64,8 @@ accordion-slider-autos/
 │    ├── bmw.jpg
 
 │    └── bugatti.jpg
+
+│── index.html
 
 └── README.md
 
