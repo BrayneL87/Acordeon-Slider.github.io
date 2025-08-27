@@ -24,6 +24,8 @@ JavaScript → interactividad dinámica.
 
 📸 Vista previa
 
+7b27a717-a658-4ef8-916c-1039bf1f253f
+
 🚀 Cómo usar
 
 Clona este repositorio:
