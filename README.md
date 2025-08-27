@@ -16,11 +16,11 @@ Muestra imágenes de autos de lujo y deportivos como Ferrari, Mercedes, Lamborgh
 
 🛠️ Tecnologías usadas
 
-HTML5 → estructura del acordeón.
+*HTML5 → estructura del acordeón.
 
-CSS3 → estilos, transiciones y efectos visuales.
+*CSS3 → estilos, transiciones y efectos visuales.
 
-JavaScript → interactividad dinámica.
+*JavaScript → interactividad dinámica.
 
 📸 Vista previa
 
@@ -34,16 +34,21 @@ Clona este repositorio:
 
 git clone https://braynel87.github.io/Acordeon-Slider.github.io
 
-
 Abre el archivo index.html en tu navegador.
 
 ¡Listo! Disfruta del acordeón interactivo.
 
 📂 Estructura de carpetas
 accordion-slider-autos/
+
+|── src
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── img/
 │    ├── ferrari.jpg
 │    ├── mercedes.jpg
