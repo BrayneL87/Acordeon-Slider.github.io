@@ -45,11 +45,11 @@ accordion-slider-autos/
 
 |📂|── css
 
-  │||── style.css 
+  |||── style.css 
 
 |📂│── js
 
- │||── app.js
+ |||── app.js
 
 │── index.html
 
