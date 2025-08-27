@@ -26,8 +26,6 @@ JavaScript → interactividad dinámica.
 
 [7b27a717-a658-4ef8-916c-1039bf1f253f](https://github.com/BrayneL87/Acordeon-Slider.github.io/blob/2bf2de017d1c7c5fb14526bbe59f91c77a297e91/acordeon-slider.jpg)
 
-![Vista previa del acordeón](../acordeon-slider.jpg)
-
 
 acordeon-slider.jpg
 
